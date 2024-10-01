@@ -97,7 +97,7 @@ skills = {
 
 Got a cool project? Want to chat about the singularity? Just need someone to explain P vs NP in interpretive dance?
 
-📧 rakifkhan786@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rakif-khan-889429130/ | 🐙 [GitHub](#Rakif215)
+📧 rakifkhan786@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rakif-khan-889429130/) 
 
 Remember, in the world of AI, we don't make mistakes - just happy little accidents in our training data!
 
