@@ -28,34 +28,60 @@ skills = {
 
 ---
 
-### 🎢 My AI Adventure Park
+### 🏗️ Project Showcase
 
-Step right up and witness the marvels of modern machine learning!
+#### 1. LLama Whisperer: Social Media Analytics
+- Fine-tuned LLama models for nuanced social media content analysis
+- Implemented PEFT techniques for efficient model adaptation
+- Integrated with Hugging Face Hub for seamless deployment
 
-1. 🎡 **The LLama Whisperer**: Fine-tuned LLama models to understand the secret language of social media. 
+#### 2. HealthPredict: Diabetes Risk Assessment
+- Developed and deployed an ML model on Azure for diabetes prediction
+- Created an end-to-end pipeline from data ingestion to API deployment
+- Achieved 92% accuracy, potentially improving early diagnosis rates
 
-2. 🎠 **The Diabetes Oracle**: Deployed a model on Azure that predicts the future (of blood sugar levels)
+#### 3. DialogueDB: Natural Language to SQL
+- Built an intuitive Streamlit app for natural language database querying
+- Leveraged advanced NLP models to translate user queries into SQL
+- Enhanced data accessibility for non-technical stakeholders
 
-3. 🏰 **ChatWithSQL**: Built a magical bridge between humans and databases. Now SQL speaks your language!
+#### 4. MindfulAI: Therapeutic Conversational Agent
+- Engineered a mental health support chatbot using state-of-the-art LLMs
+- Implemented ethical AI practices ensuring user privacy and safety
+- Deployed using Docker and Flask for scalability and easy integration
 
-4. 🌋 **Mind Reader 3000**: A chatbot that's part therapist, part fortune cookie. It's cheaper than therapy and more accurate than horoscopes!
-
-5. 🚀 **The Knowledge Navigator**: A chatbot with RAG capabilities. It's like having a librarian, a search engine, and a witty friend all rolled into one.
+#### 5. KnowledgeNav: Intelligent Information Retrieval
+- Developed a Retrieval-Augmented Generation (RAG) system for enhanced information access
+- Integrated with various data sources for comprehensive knowledge retrieval
+- Improved query response accuracy by 40% compared to traditional search methods
 
 ---
 
-### 📚 My Publications
 
-- 📜 "Native vs Non-Native Language Prompting: A Comparative Analysis" - A thrilling saga of linguistic adventures in the world of AI
-- 📘 "Sentiment Analysis: Decoding the Emotions of the Internet" - Because someone needs to understand what the internet is feeling
+### 📚 Research & Publications
+
+1. "Native vs Non-Native Language Prompting in AI: A Comparative Analysis"
+   - Investigating the impact of language familiarity on AI model performance
+   - Accepted at WISE Conference 2024
+
+2. "Sentiment-Driven User Belief Prediction: A Novel Approach"
+   - Exploring the correlation between sentiment analysis and user belief systems
+   - Accepted at CoDIT 2024
 
 ---
-
 ### 🌟 Achievements Unlocked
 
 - 🏆 Won a 72-hour hackathon fueled only by coffee and determination
 - 🥇 Made a neural network laugh (It was probably a glitch, but I'm claiming it)
 - 🎓 Graduated with honors from the University of Doha for Science and Technology (They said it couldn't be done!)
+
+---
+
+### 🌱 Current Learning Focus
+
+- Exploring the frontiers of few-shot learning in NLP
+- Diving deep into ethical AI and responsible ML practices
+- Enhancing my skills in distributed computing for large-scale ML
 
 ---
 
@@ -71,6 +97,11 @@ Step right up and witness the marvels of modern machine learning!
 
 Got a cool project? Want to chat about the singularity? Just need someone to explain P vs NP in interpretive dance?
 
-📧 rakifkhan786@gmail.com | 💼 [LinkedIn](#RakifKhan) | 🐙 [GitHub](#Rakif215)
+📧 rakifkhan786@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rakif-khan-889429130/ | 🐙 [GitHub](#Rakif215)
 
 Remember, in the world of AI, we don't make mistakes - just happy little accidents in our training data!
+
+
+
+
+
